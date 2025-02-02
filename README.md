@@ -38,17 +38,17 @@
 | # | Level | Content | Course Link |
 | - | ----- | ------- | ----------- |
 | 1 | **Foundation** | Supervised Learning Basics | [ML](https://www.youtube.com/watch?v=jGwO_UgTS7I&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)|
-|  | | Model evaluation metrics | |
-|  | | Basic data preprocessing | |
-|  | | Simple classification and regression | |
+|  | | Model evaluation metrics | [ML](https://www.youtube.com/watch?v=jGwO_UgTS7I&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU) |
+|  | | Basic data preprocessing | [ML](https://www.youtube.com/watch?v=jGwO_UgTS7I&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU) |
+|  | | Simple classification and regression | [ML](https://www.youtube.com/watch?v=jGwO_UgTS7I&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU) |
 | 2 | **Intermidiate** | Feature Engineering | [ML](https://www.youtube.com/watch?v=i_LwzRVP7bg&list=PLWKjhJtqVAblStefaz_YOVpDWqcRScc2s) |
-|  | | Cross-validation techniques | |
-|  | | Ensemble methods | |
-|  | | Dimensionality reduction | |
+|  | | Cross-validation techniques | [ML](https://www.youtube.com/watch?v=i_LwzRVP7bg&list=PLWKjhJtqVAblStefaz_YOVpDWqcRScc2s) |
+|  | | Ensemble methods | [ML](https://www.youtube.com/watch?v=i_LwzRVP7bg&list=PLWKjhJtqVAblStefaz_YOVpDWqcRScc2s) |
+|  | | Dimensionality reduction | [ML](https://www.youtube.com/watch?v=i_LwzRVP7bg&list=PLWKjhJtqVAblStefaz_YOVpDWqcRScc2s) |
 | 3 | **Advanced** | Advanced algorithms | |
 |  | | AutoML | [AutoML](https://www.youtube.com/playlist?list=PL3N9eeOlCrP5wZ99ZsULU7rtrWTjh_F5g) |
 |  | | Model interpretability | |
-|  | | ML Design System | |
+|  | | ML Design System | [ML Design Systems](https://www.youtube.com/watch?v=spFsPbDw7Lg&list=PLLm69KFEX6JD4fJ7ge8-WEDw3G4c_nzHs) |
 
 ## 🧠 Deep Learning Track
 
