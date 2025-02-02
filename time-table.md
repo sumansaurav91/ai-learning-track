@@ -36,3 +36,30 @@
 | | | 16:00 to 17:00 | Portfolio Work |
 
 
+## Monthly Milestones
+### Month 1-2 (Foundation Phase)
+
+  * Complete basic mathematics modules
+  * Establish Python programming proficiency
+  * Implement simple ML models
+  * Build basic neural networks
+  * Create simple computer vision applications
+  * Understand LLM fundamentals
+
+### Month 3-4 (Intermediate Phase)
+
+  * Advanced mathematical concepts
+  * Complex data processing
+  * Advanced ML algorithms
+  * CNN and RNN implementations
+  * Object detection systems
+  * LLM fine-tuning projects
+
+### Month 5-6 (Advanced Phase)
+
+  * Specialized mathematics applications
+  * System optimization
+  * Advanced ML systems
+  * Custom deep learning architectures
+  * Complex computer vision projects
+  * Custom LLM applications
