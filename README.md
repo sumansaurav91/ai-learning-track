@@ -88,10 +88,10 @@
 
 | # | Level | Content | Course Link |
 | - | ----- | ------- | ----------- |
-| 1 | **Foundation** | NLP basics | |
-|  | | Text preproccessing| |
+| 1 | **Foundation** | NLP basics | [Basics - 1](https://www.youtube.com/watch?v=dIUTsFT2MeQ&t=236s) [Basics - 2](https://www.youtube.com/watch?v=fNxaJsNG3-s&list=PLQY2H8rRoyvzDbLUZkbudP-MFQZwNmU4S)|
+|  | | Text preproccessing| [Text Processing](https://www.youtube.com/watch?v=808M7q8QX0E&list=PLaZQkZp6WhWy4_bClrW9EGQKnUUD9yp8V)|
 |  | | Word embeddings | |
-|  | | Basic Transformers | |
+|  | | Basic Transformers | [Transformers](https://www.youtube.com/playlist?list=PLoROMvodv4rNiJRchCzutFw5ItR_Z27CM)|
 | 2 | **Intermidiate** | Advanced Transformers | |
 |  | | Fine-tuning basics | |
 |  | | Prompt engineering | |
