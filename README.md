@@ -101,26 +101,6 @@
 |  | | LLM optimization | |
 |  | | Responsible AI | |
 
-## Weekly Time Allocation (25 hours total)
-### Weekdays (2.5 hours each)
-* Choose 2-3 tracks to focus on each day:
-
-  - Track 1: 1 hour
-  - Track 2: 1 hour
-  - Review/Practice: 30 minutes
-
-### Weekends (5 hours each)
-
-* Deeper focus on 2-3 tracks:
-
-* Morning Session (3 hours):
-  - Project work
-  - Hands-on practice
-
-* Afternoon Session (2 hours):
-  - Theory and concepts
-  - Documentation and review
-
 ## Progress Tracking
 
 | # | Level | Composition | Months |
