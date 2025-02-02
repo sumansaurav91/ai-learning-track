@@ -20,18 +20,18 @@
 
 | # | Level | Content | Course Link |
 | - | ----- | ------- | ----------- |
-| 1 | **Foundation** | Python basics | |
-|  | | Data structures | |
-|  | | Basic algorithms | |
-|  | | Matrix calculus | |
-| 2 | **Intermidiate** | NumPy and Pandas | |
-|  | | Data visualization (Matplotlib, Seaborn) | |
-|  | | Object oriented programming | |
-|  | | Code optimization | |
-| 3 | **Advanced** | Advanced python features | |
-|  | | Parallel programming | |
-|  | | GPU programming basics | |
-|  | | Software design patterns | |
+| 1 | **Foundation** | Python basics | [Python Basics](https://www.youtube.com/playlist?list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3) |
+|  | | Data structures | [Python DSA](https://www.youtube.com/playlist?list=PLzgPDYo_3xukPJdH6hVQ6Iic7KiJuoA-l) |
+|  | | Basic algorithms | [Basic Algorithms](https://www.youtube.com/watch?v=fW_OS3LGB9Q) |
+|  | | Matrix calculus | [Matrix Calculation Python](https://www.youtube.com/playlist?list=PLGZqdNxqKzfbQaULW_LiFL8jOIK_3Tz_A) |
+| 2 | **Intermidiate** | NumPy and Pandas | [NymPy and Pandas](https://www.youtube.com/watch?v=r-uOLxNrNk8) |
+|  | | Data visualization (Matplotlib, Seaborn) | [Seaborne and Matplotlib](https://www.youtube.com/watch?v=FN78JowwpSY&list=PL2Jn4_RetiGQKRgFikv7j5ototekyfgdU) |
+|  | | Object oriented programming | [OOP Python](https://www.youtube.com/watch?v=e4fwY9ZsxPw) |
+|  | | Code optimization | [Code Optimization](https://www.youtube.com/playlist?list=PLMOobVGrchXPeBgrrnQN6pimrmpTsWFiZ) |
+| 3 | **Advanced** | Advanced python features | [Advanced Python](https://www.youtube.com/watch?v=HGOBQPFzWKo) [Advanced Python](https://www.youtube.com/watch?v=QLTdOEn79Rc&list=PLqnslRFeH2UqLwzS0AwKDKLrpYBKzLBy2) |
+|  | | Parallel programming | [Parallel Computing](https://www.youtube.com/watch?v=V1tINV2-9p4&list=PLoROMvodv4rMp7MTFr4hQsDEcX7Bx6Odp) |
+|  | | GPU programming basics | [GPUs](https://www.youtube.com/watch?v=86FAWCzIe_4) [GPU](https://www.youtube.com/watch?v=wFlejBXX9Gk&list=PL3xCBlatwrsXCGW4SfEoLzKiMSUCE7S_X) |
+|  | | Software design patterns | [Design Patterns](https://www.youtube.com/watch?v=Q4ktJLM4zaQ&list=PLplJltxWVIbIjWVcNStHBkPsaRLpYnDBU) |
 
 ## 🤖 Machine Learning Track
 
