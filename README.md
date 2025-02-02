@@ -5,8 +5,8 @@
 | # | Level | Content | Course Link |
 | - | ----- | ------- | ----------- |
 | 1 | **Foundation** | Basic Linear Algebra: Vectors and Matrices | [Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) |
-|  | | Calculus: Derivatives and Integrals | |
-|  | | Probability and Statistics Basics | |
+|  | | Calculus: Derivatives and Integrals | [Calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr) |
+|  | | Probability and Statistics Basics | [Probability](https://www.youtube.com/playlist?list=PLUl4u3cNGP61MdtwGTqZA0MreSaDybji8) |
 | 2 | **Intermidiate** | Advanced linear algebra: eigenvalues, eigenvectors | |
 |  | | Multivariable calculus | |
 |  | | Probability distributions | |
