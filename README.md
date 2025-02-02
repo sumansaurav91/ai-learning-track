@@ -37,16 +37,16 @@
 
 | # | Level | Content | Course Link |
 | - | ----- | ------- | ----------- |
-| 1 | **Foundation** | Supervised Learning Basics | |
+| 1 | **Foundation** | Supervised Learning Basics | [ML](https://www.youtube.com/watch?v=jGwO_UgTS7I&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)|
 |  | | Model evaluation metrics | |
 |  | | Basic data preprocessing | |
 |  | | Simple classification and regression | |
-| 2 | **Intermidiate** | Feature Engineering | |
+| 2 | **Intermidiate** | Feature Engineering | [ML](https://www.youtube.com/watch?v=i_LwzRVP7bg&list=PLWKjhJtqVAblStefaz_YOVpDWqcRScc2s) |
 |  | | Cross-validation techniques | |
 |  | | Ensemble methods | |
 |  | | Dimensionality reduction | |
 | 3 | **Advanced** | Advanced algorithms | |
-|  | | AutoML | |
+|  | | AutoML | [AutoML](https://www.youtube.com/playlist?list=PL3N9eeOlCrP5wZ99ZsULU7rtrWTjh_F5g) |
 |  | | Model interpretability | |
 |  | | ML Design System | |
 
