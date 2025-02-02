@@ -54,18 +54,18 @@
 
 | # | Level | Content | Course Link |
 | - | ----- | ------- | ----------- |
-| 1 | **Foundation** | Neural network basics | |
-|  | | Backpropagation | |
-|  | | Basic architectures | |
-|  | | Training fundamentals | |
-| 2 | **Intermidiate** | CNN architectures | |
-|  | | RNN and LSTM | |
-|  | | Transfer learning | |
-|  | | Model optimization | |
-| 3 | **Advanced** | Advanced architectures | |
-|  | | GANs | |
-|  | | Reinforcement learning | |
-|  | | Custom architectures | |
+| 1 | **Foundation** | Neural network basics | [Deep Learning PyTorch](https://www.youtube.com/watch?v=V_xro1bcAuA&t=2421s) |
+|  | | Backpropagation | [Deep Learning PyTorch](https://www.youtube.com/watch?v=V_xro1bcAuA&t=2421s) |
+|  | | Basic architectures | [Deep Learning PyTorch](https://www.youtube.com/watch?v=V_xro1bcAuA&t=2421s) |
+|  | | Training fundamentals | [Deep Learning PyTorch](https://www.youtube.com/watch?v=V_xro1bcAuA&t=2421s) |
+| 2 | **Intermidiate** | CNN architectures | [Deep Learning](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI) |
+|  | | RNN and LSTM | Deep Learning](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI) |
+|  | | Transfer learning | Deep Learning](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI) |
+|  | | Model optimization | Deep Learning](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI) |
+| 3 | **Advanced** | Advanced architectures | [Reinforcement Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rN4wG6Nk6sNpTEbuOSosZdX) |
+|  | | GANs | [Reinforcement Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rN4wG6Nk6sNpTEbuOSosZdX) |
+|  | | Reinforcement learning | [Reinforcement Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rN4wG6Nk6sNpTEbuOSosZdX) |
+|  | | Custom architectures | [Reinforcement Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rN4wG6Nk6sNpTEbuOSosZdX) |
 
 ## 👁️ Computer Vision Track
 
