@@ -4,7 +4,7 @@
 
 | # | Level | Content | Course Link |
 | - | ----- | ------- | ----------- |
-| 1 | **Foundation** | Basic Linear Algebra: Vectors and Matrices | |
+| 1 | **Foundation** | Basic Linear Algebra: Vectors and Matrices | [Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) |
 |  | | Calculus: Derivatives and Integrals | |
 |  | | Probability and Statistics Basics | |
 | 2 | **Intermidiate** | Advanced linear algebra: eigenvalues, eigenvectors | |
