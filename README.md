@@ -7,14 +7,14 @@
 | 1 | **Foundation** | Basic Linear Algebra: Vectors and Matrices | [Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) |
 |  | | Calculus: Derivatives and Integrals | [Calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr) |
 |  | | Probability and Statistics Basics | [Probability](https://www.youtube.com/playlist?list=PLUl4u3cNGP61MdtwGTqZA0MreSaDybji8) |
-| 2 | **Intermidiate** | Advanced linear algebra: eigenvalues, eigenvectors | |
-|  | | Multivariable calculus | |
-|  | | Probability distributions | |
-|  | | Optimization techniques | |
-| 3 | **Advanced** | Information theory | |
-|  | | Advanced Optimization | |
-|  | | Statistical inference | |
-|  | | Matrix calculus | |
+| 2 | **Intermidiate** | Advanced linear algebra: eigenvalues, eigenvectors | [Advanced Linear Algebra](https://www.youtube.com/playlist?list=PLX2gX-ftPVXWjzkAjEu4Sd16R4wz55Bwe) |
+|  | | Multivariable calculus | [Multivariate Calculus](https://www.youtube.com/playlist?list=PLSQl0a2vh4HC5feHa6Rc5c0wbRTx56nF7) |
+|  | | Probability distributions | [Probability](https://www.youtube.com/playlist?list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6) |
+|  | | Optimization techniques | [Optimization Technique](https://www.youtube.com/playlist?list=PLLtQL9wSL16ioUvHckGCkoWq_CIvyUI0p) |
+| 3 | **Advanced** | Information theory | [Information Theory](https://www.youtube.com/playlist?list=PLruBu5BI5n4aFpG32iMbdWoRVAA-Vcso6) |
+|  | | Advanced Optimization | [Optimization Technique](https://www.youtube.com/playlist?list=PLLtQL9wSL16ioUvHckGCkoWq_CIvyUI0p) |
+|  | | Statistical Inference | [Statistical Inference](https://www.youtube.com/playlist?list=PLhGZPbj15CU-SeWVmj_TcZcs1LUpzA1D-) |
+|  | | Matrix calculus | [Matrix Calculus](https://www.youtube.com/watch?v=oGZK3yGF-6k) |
 
 ## 💻 Programming Track
 
