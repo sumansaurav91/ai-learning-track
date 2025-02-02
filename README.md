@@ -71,15 +71,15 @@
 
 | # | Level | Content | Course Link |
 | - | ----- | ------- | ----------- |
-| 1 | **Foundation** | Image basics | |
-|  | | OpenCV fundamentals | |
+| 1 | **Foundation** | Image basics | [CV](https://www.youtube.com/playlist?list=PLf7L7Kg8_FNxHATtLwDceyh72QQL9pvpQ) |
+|  | | OpenCV fundamentals | [OpenCV](https://www.youtube.com/watch?v=P4Z8_qe2Cu0) |
 |  | | Basic image processing | |
 |  | | Feature detection | |
 | 2 | **Intermidiate** | Object detection | |
 |  | | Image segmentation | |
 |  | | Face recognition | |
 |  | | Video processing | |
-| 3 | **Advanced** | 3D computer vision | |
+| 3 | **Advanced** | 3D computer vision | [Advanced CV](https://www.youtube.com/watch?v=01sAkU_NvOY) |
 |  | | Advanced CNN architectures | |
 |  | | Real-time processing | |
 |  | | Multi-modal vision | |
